@@ -5,4 +5,4 @@ Paper-record
 | YOLOv9	|[YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information](https://link.springer.com/chapter/10.1007/978-3-031-72751-1_1)|arxiv|	2024	|[Python](https://github.com/user-attachments/assets/a8f6d8dc-5898-4862-a6fa-6b28be0cf82c)|	2024.10.14 |
 | YOLOv11	|[Yolov11: An overview of the key architectural enhancements](https://arxiv.org/abs/2410.17725)|arxiv|	2024	|[Python](https://github.com/user-attachments/assets/a8f6d8dc-5898-4862-a6fa-6b28be0cf82c)|	2025.3.20 |
 | Zero-DCE|[Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement](https://arxiv.org/abs/2001.06826)|CVPR|	2020	|[Python](https://github.com/Li-Chongyi/Zero-DCE?utm_source=catalyzex.com)| 2025.4.28 |
-| HVI|[HVI: A New Color Space for Low-light Image Enhancement](https://arxiv.org/abs/2502.20272)|arxiv|	2025	|[Python](https://github.com/Fediory/HVI-CIDNet?tab=readme-ov-file)| 2025.5.1 |
+| HVI|[HVI: A New Color Space for Low-light Image Enhancement](https://arxiv.org/abs/2502.20272)|arxiv|	2025	|[Python](https://github.com/Fediory/HVI-CIDNet?tab=readme-ov-file)| 2025.5.2 |
